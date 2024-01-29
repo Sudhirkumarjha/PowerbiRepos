@@ -1,3 +1,3 @@
 # PowerbiRepos
 This is for power bi sales dashboard</br>
-Created By: sudhir jha
+Created By: sudhir kumar jha
